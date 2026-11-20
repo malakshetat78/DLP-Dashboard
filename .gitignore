@@ -1,0 +1,16 @@
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+instance/
+encrypted_storage/
+encrypted_uploads/
+keys/
+*.pem
+*.key
+*.db
+*.enc
+build/

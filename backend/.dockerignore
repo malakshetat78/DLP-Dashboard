@@ -1,0 +1,12 @@
+venv
+.venv
+__pycache__
+instance
+encrypted_storage
+encrypted_uploads
+keys
+.env*
+*.pem
+*.key
+*.db
+*.enc
